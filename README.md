@@ -18,6 +18,12 @@
 ## Proyectos
 
 ### Clasificador de Digitos 
+
+Utilizando el dataset "MNIST" se implementó una red neuronal con capas profundas para clasificar los digitos del 0 al 9, para propósitos educativos
+se documentó todo el proceso del desarrollo del algoritmo desde la obtención del conjunto de datos -> diseño del modelo -> entrenamiento -> validación -> despliegue del modelo 
+esto demostrando todas las etapas del ciclo de desarrollo de un modelo de aprendizaje automatico alojado en la nube como aplicación web.
+
+
 ![Clasificador de digitos](/assets/img/Digit_recognition.gif)
 
 
