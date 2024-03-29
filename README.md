@@ -1,21 +1,21 @@
-### Biomedical Engineer | Data Scientist 
+### Ingeniero Biomédico | Cientifico de Datos
 
-#### Technical Skills: Python, SQL, Docker, Pytorch, Tensorflow, Keras, Pandas, Numpy
+#### Habilidades técnicas: Python, SQL, Docker, Pytorch, Pandas, Numpy
 
-### Education
-- B.S., Biomedical Eng. | Universidad autonoma de Nuevo Leon (_2019-2024_)
+### Educación
+- Ingeniería Biomédica | Universidad autonoma de Nuevo Leon (_2019-2024_)
 
-### Professional Experience
-**Research development center** | **Research and Innovation Department of the Faculty of Medicine (UANL)**
+### Experiencia
+**Centro de Innovación y Desarrollo Tecnológico** | **Subdirección de Investigación, Facultad de Medicina y Hospital Universitario "Dr. José Eleuterio González"**
 
-*AI Researcher @ Monterrey, MX (_December 2022 - November 2023_)*
+*Investigador de Inteligencia artificial @ Monterrey, MX (_December 2022 - November 2023_)*
 
-- Implement state-of-the-art models for medical applications (ResNet, EfficientNet, Unet).
-- Analyze Medical Data, explore different approaches to problem-solving tasks.
+- Implementar modelos del estado del arte en imagenología médica
+- Analisis de datos clinicos.
 - Working in cross-functional teams in the implementation of key projects, ensuring alignment with research goals and objectives.
 - Manipulate data to feed AI models
 
-## Projects
+## Proyectos
 
 ### Screening Mammography Breast Cancer Detection
 
@@ -28,7 +28,7 @@ Medical Assistant Chatbot to help Doctors to follow up diabetes mellitus (*Chat-
 
 ---
 
-### Contact
+### Contacto
 
  +52 8211217127 | alejandrolunam04@gmail.com
 
