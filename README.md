@@ -17,6 +17,10 @@
 
 ## Proyectos
 
+### Clasificador de Digitos 
+![Clasificador de digitos](/assets/img/Digit_recognition.gif)
+
+
 ### Screening Mammography Breast Cancer Detection
 
 
