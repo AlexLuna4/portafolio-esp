@@ -36,11 +36,13 @@ Aqui va la explicación del proyecto
 
 
 ### Asistente Clínico Virtual para el seguimiento de la diabetes mellitus
-Se desarrolló con *Python* un chatbot tipo asistente clínico utilizando la API del modelo GPT-3.5 de OpenAI y una de las guías de práctica clínica Mexicana
-que utilizan para darle seguimiento a la Diabetes Mellitus en los servicios de salud. Se desplegó el modelo en *Streamlit* un framework
+Se desarrolló con **Python** un chatbot tipo asistente clínico utilizando la API del modelo GPT-3.5 de OpenAI y una de las guías de práctica clínica Mexicana
+que utilizan para darle seguimiento a la Diabetes Mellitus en los servicios de salud. Se desplegó el modelo en **Streamlit** un framework
 de desarrollo para aplicaciones web. La intención del proyecto es brindar un asistente virtual capaz de utilizar información ya validada
 clinicamente agilizando el proceso de diagnostico de la diabetes evitando que el médico tenga que revisar cada uno de los casos que se
 encuentran en la guiá clinica así solo con un prompt pueda saber como darle seguimiento al paciente para diagnostico y tratamiento.
+
+![Asistente Clínico Virtual](/assets/img/docgpt.png)
 
 
 ---
