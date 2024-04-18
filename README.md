@@ -53,5 +53,5 @@ encuentran en la guiá clinica así solo con un prompt pueda saber como darle se
 
 [http://www.linkedin.com/in/josé-alejandro-luna-martínez-923495200](http://www.linkedin.com/in/josé-alejandro-luna-martínez-923495200)
 
-### Para ver este Portafolio en Inglés: [Portfolio](https://alexluna4.github.io/portafolio-esp/)
+### Para ver este Portafolio en Inglés: [Portfolio](https://alexluna4.github.io/portafolio-eng/)
 
