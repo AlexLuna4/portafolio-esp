@@ -40,7 +40,6 @@ encuentran en la guiá clinica así solo con un prompt pueda saber como darle se
 ### Contacto
 
  +52 8211217127 | alejandrolunam04@gmail.com
-
 [http://www.linkedin.com/in/josé-alejandro-luna-martínez-923495200](http://www.linkedin.com/in/josé-alejandro-luna-martínez-923495200)
 
 ---
