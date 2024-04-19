@@ -29,6 +29,9 @@ esto demostrando todas las etapas del ciclo de desarrollo de un modelo de aprend
 ![Clasificador de digitos](/assets/img/Digit_recognition.gif)
 
 ### Asistente Clínico Virtual para el seguimiento de la diabetes mellitus
+
+[Github](https://github.com/AlexLuna4/Virtual_Clinical_Assistant_GPT.git)
+
 Se desarrolló con **Python** un chatbot tipo asistente clínico utilizando la API del modelo GPT-3.5 de OpenAI y una de las guías de práctica clínica Mexicana
 que utilizan para darle seguimiento a la Diabetes Mellitus en los servicios de salud. Se desplegó el modelo en **Streamlit** un framework
 de desarrollo para aplicaciones web. La intención del proyecto es brindar un asistente virtual capaz de utilizar información ya validada
